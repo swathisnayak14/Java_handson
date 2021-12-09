@@ -1,3 +1,4 @@
+package loops;
 public class reverse {
     public static void main(String args[]){
         int n=7896;

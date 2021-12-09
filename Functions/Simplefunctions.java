@@ -1,5 +1,7 @@
+package Functions;
+
 import java.util.*;
-public class Functions {
+public class Simplefunctions {
     public static void main(String args[]){
         sum();
     }

@@ -1,5 +1,6 @@
+package loops;
 import java.util.*;
-public class loops {
+public class looptypes {
     public static void main(String args[]){
         //Q:Print numebers from 1 to 5
 

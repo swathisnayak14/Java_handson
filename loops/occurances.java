@@ -1,4 +1,5 @@
-// import java.util.*;
+package loops;
+
 public class occurances {
     public static void main(String args[]){
         // Scanner input=new Scanner(System.in);
